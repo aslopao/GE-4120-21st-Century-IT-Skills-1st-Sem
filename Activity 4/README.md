@@ -11,9 +11,7 @@
 
 ---
 
-## 📘 ACTIVITY TITLE AND SHORT DESCRIPTION
-
-**Activity 04: Google Slides**
+## 📘 **Activity 04: Google Slides**
 
 <p align="justify">
 This activity focuses on exploring and utilizing Google Slides as a digital presentation tool for creating, editing, and sharing visual presentations. It involves learning how to organize information, insert images and other visual elements, customize slide layouts, apply themes, and use different formatting features. Through this activity, I gained a better understanding of how Google Slides can help create professional and engaging presentations while allowing users to collaborate and work together online.
