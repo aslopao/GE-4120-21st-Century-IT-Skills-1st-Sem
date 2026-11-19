@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 # 💙 ACTIVITY 01
 
@@ -10,26 +11,31 @@
 
 ---
 
-## 📘 ABOUT THIS ACTIVITY
+## 📘 ACTIVITY TITLE AND SHORT DESCRIPTION
 
-This activity focuses on the fundamental principles of presentation design and how they contribute to effective visual communication. It explores the importance of organizing content, choosing appropriate colors and typography, maintaining consistency, and creating a balanced slide layout.
+**Activity 01: Presentation Design Principles**
 
-Through this activity, I was able to understand how good presentation design helps deliver information in a way that is visually appealing, organized, and easy for the audience to understand.
+This activity focuses on learning and applying the fundamental principles of effective presentation design. It involves organizing information, choosing appropriate colors and typography, maintaining consistency, and creating balanced slide layouts to make presentations visually appealing, understandable, and engaging for the audience.
 
-## 🎯 OBJECTIVES
+## ✨ WHAT HAVE I LEARNED?
 
-- Understand the basic principles of effective presentation design.
-- Apply proper color combinations, fonts, and visual elements.
-- Organize information in a clear and logical manner.
-- Create slides that are engaging, readable, and visually balanced.
+Through this activity, I learned that creating an effective presentation is not just about adding text and images to slides but also about presenting information in a clear, organized, and visually appealing way.
 
-## ✨ WHAT I LEARNED
+**◆ Key Concepts and Skills I Gained**
 
-This activity taught me that creating a good presentation is more than simply adding text, images, and decorations to slides. Every design element should have a purpose and contribute to the message being presented.
+I learned the importance of simplicity, consistency, alignment, contrast, spacing, and visual hierarchy in presentation design. I also developed my creativity and learned how to select appropriate colors, fonts, and layouts to make information easier to read and understand.
 
-I learned the importance of simplicity, consistency, alignment, contrast, and visual hierarchy. I also realized that choosing the right colors and fonts can make information easier to read and remember.
+**◆ Challenges I Faced and How I Solved Them**
 
-Most importantly, I developed my creativity and became more mindful of how I present information. These skills will be useful not only in academic presentations but also in my future nursing profession, especially when preparing health education materials and presenting important patient-related information.
+One challenge I encountered was deciding how to arrange the information without making the slides look too crowded or overwhelming. I solved this by simplifying the content, selecting only the most important details, and organizing the elements properly to maintain a clean and balanced design.
+
+**◆ How I Could Apply or Improve This in the Future**
+
+In the future, I can apply these skills when creating nursing case presentations, academic reports, and health education materials. I will continue improving my creativity and design skills by exploring different layouts and visual elements to communicate important information more effectively, especially in my future nursing profession.
+
+---
+
+<div align="center">
 
 <a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem">
 <img src="https://img.shields.io/badge/BACK%20TO%20MAIN%20PORTFOLIO-1976D2?style=for-the-badge&logo=github&logoColor=white"/>
