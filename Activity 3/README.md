@@ -1,8 +1,6 @@
 
 <div align="center">
 
-# 💙 ACTIVITY 03
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=SOCIAL%20MEDIA%20INFOGRAPHICS&fontSize=27&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 *Turning information into creative, informative, and engaging visual content.*
@@ -11,9 +9,7 @@
 
 ---
 
-## 📘 ACTIVITY TITLE AND SHORT DESCRIPTION
-
-**Activity 03: Social Media Infographics and Project Documentation**
+## 📘 **Activity 03: Social Media Infographics and Project Documentation**
 
 <p align="justify">
 This activity focuses on creating informative and visually appealing social media infographics while documenting the objectives, processes, and important details of a project. It involves combining text, images, icons, colors, and other visual elements to communicate information effectively. Through this activity, I learned how to present ideas creatively and organize project information through proper digital documentation.
