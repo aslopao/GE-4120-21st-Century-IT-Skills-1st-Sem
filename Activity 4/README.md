@@ -6,8 +6,6 @@
 
 *Creating engaging presentations through creativity and digital collaboration.*
 
-\</div>
-
 ---
 
 ## 📘 ACTIVITY TITLE AND SHORT DESCRIPTION
