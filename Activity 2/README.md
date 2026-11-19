@@ -2,8 +2,6 @@
 
 # 💙 ACTIVITY 02
 
-## PERSONAL BRANDING
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=PERSONAL%20BRANDING&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 *Discovering my identity and creating my digital presence.*
@@ -26,8 +24,6 @@ This activity focuses on personal branding and developing a unique digital ident
 ## ✨ WHAT I LEARNED
 
 I learned that personal branding is about showing who I am and what makes me unique. It taught me to express myself confidently, recognize my strengths, and maintain a positive online presence.
-
-### 💙 ONE ACTIVITY, ONE NEW SKILL, ONE STEP FORWARD.
 
 <a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem">
 <img src="https://img.shields.io/badge/BACK%20TO%20MAIN%20PORTFOLIO-1976D2?style=for-the-badge&logo=github&logoColor=white"/>
