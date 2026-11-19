@@ -3,7 +3,7 @@
 
 # 💙 ACTIVITY 03
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=SINFORMATION%20DOCUMENTATION&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=SOCIAL%20MEDIAN%20FORMATION%20DOCUMENTATION&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 *Turning information into meaningful visuals and organized documents.*
 
