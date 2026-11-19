@@ -32,38 +32,6 @@ I learned the importance of simplicity, consistency, alignment, contrast, and vi
 
 Most importantly, I developed my creativity and became more mindful of how I present information. These skills will be useful not only in academic presentations but also in my future nursing profession, especially when preparing health education materials and presenting important patient-related information.
 
-## 🩵 KEY TAKEAWAYS
-
-| Principle | What It Means |
-|:--|:--|
-| Simplicity | Keep slides clean and avoid unnecessary elements. |
-| Contrast | Make important information stand out. |
-| Alignment | Arrange elements in an organized way. |
-| Consistency | Maintain a uniform design throughout the presentation. |
-| Visual Hierarchy | Highlight the most important information first. |
-
----
-
-## 🖥️ ACTIVITY OUTPUT
-
-<div align="center">
-
-*Below are the outputs and materials for this activity.*
-
-<!-- Add your presentation screenshots or output links here -->
-
-</div>
-
----
-
-## 💭 PERSONAL REFLECTION
-
-"Good design is not just about making things look beautiful; it is about making information meaningful and easy to understand."
-
-This activity reminded me that creativity and communication go hand in hand. I learned to pay attention to details and think about the audience when designing presentations. It was a valuable experience that helped me improve my digital skills and express ideas more effectively.
-
-<div align="center">
-
 ### 💙 ONE ACTIVITY, ONE NEW SKILL, ONE STEP FORWARD.
 
 <a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem">
