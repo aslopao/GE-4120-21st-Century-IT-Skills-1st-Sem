@@ -1,8 +1,6 @@
 
 <div align="center">
 
-# 💙 ACTIVITY 01
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=PRESENTATION%20DESIGN&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 *Turning ideas into clear, creative, and meaningful presentations.*
@@ -11,9 +9,8 @@
 
 ---
 
-## 📘 ACTIVITY TITLE AND SHORT DESCRIPTION
+## 📘 **Activity 01: Presentation Design Principles**
 
-**Activity 01: Presentation Design Principles**
 
 <p align="justify">
 This activity focuses on learning and applying the fundamental principles of effective presentation design. It involves organizing information, choosing appropriate colors and typography, maintaining consistency, and creating balanced slide layouts to make presentations visually appealing, understandable, and engaging for the audience.
