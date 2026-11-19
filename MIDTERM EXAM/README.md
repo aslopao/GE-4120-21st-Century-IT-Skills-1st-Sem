@@ -1,14 +1,4 @@
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=CLASS%20EVENT%20BUDGET%20%26%20PROPOSAL&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-*Planning, organizing, and managing an event through digital productivity tools.*
-
-</div>
-
----
-
 ## 📘 **Midterm Examination: Class Event Budget and Proposal** <p align="justify">
 
 <p align="justify">
