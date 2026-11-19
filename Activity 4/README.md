@@ -2,7 +2,7 @@
 
 # 💙 ACTIVITY 04
 
-\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=GOOGLE%20SLIDES&fontSize=30&fontColor=FFFFFF&animation=fadeIn](https://capsule-render.vercel.app/api?type=rect\&color=0:0D47A1,100:64B5F6\&height=120\&section=header\&text=GOOGLE%20SLIDES\&fontSize=30\&fontColor=FFFFFF\&animation=fadeIn)" width="100%"/>
+## GOOGLE WORKSPACE: GOOGLE SLIDES
 
 *Creating engaging presentations through creativity and digital collaboration.*
 
@@ -21,6 +21,8 @@ This activity focuses on Google Slides, a presentation tool used to create, edit
 - **Challenges & Solutions:** One challenge was choosing appropriate designs and arranging information without making the slides overcrowded. I addressed this by keeping the content concise, using readable fonts, and selecting layouts that made the presentation easier to understand.
 
 - **Future Applications:** I can apply these skills when preparing academic reports, group presentations, and future professional presentations. I can further improve by exploring more advanced features and practicing how to create clear, creative, and engaging slides.
+
+
 
 \<a href="[https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem](https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem)"> \<img src="[https://img.shields.io/badge/BACK%20TO%20MAIN%20PORTFOLIO-1976D2?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/BACK%20TO%20MAIN%20PORTFOLIO-1976D2?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a>
 
