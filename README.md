@@ -1,59 +1,59 @@
-# GE 4120 | 21ST CENTURY IT SKILLS
+# 💙 GE 4120 | 21ST CENTURY IT SKILLS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:64B5F6&height=220&section=header&text=MY%20DIGITAL%20PORTFOLIO&fontSize=35&fontColor=FFFFFF&fontAlignY=40&desc=Learning%20%7C%20Creating%20%7C%20Innovating&descSize=15&descAlignY=60" width="100%" alt="Blue digital portfolio banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:64B5F6&height=230&section=header&text=MY%20DIGITAL%20PORTFOLIO&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=Creativity%20%E2%80%A2%20Technology%20%E2%80%A2%20Innovation&descSize=16&descAlignY=62" width="100%" alt="Blue portfolio banner">
 
-### AYEEN SHAYNE L. OPAO
+# ✦ AYEEN SHAYNE L. OPAO ✦
 
 **BS Nursing – BSN 4D**  
 Ateneo de Davao University
 
 ![Course](https://img.shields.io/badge/COURSE-GE%204120-0D47A1?style=for-the-badge)
 ![Program](https://img.shields.io/badge/PROGRAM-BSN%204D-1976D2?style=for-the-badge)
-![Portfolio](https://img.shields.io/badge/PORTFOLIO-DIGITAL-64B5F6?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/DIGITAL%20PORTFOLIO-2026-64B5F6?style=for-the-badge)
 
-*My journey in discovering creativity, technology, and digital innovation.*
+*“Turning ideas into creativity, and creativity into digital possibilities.”*
+
+<a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem">
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORY-0D47A1?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repository">
+</a>
 
 </div>
 
 ---
 
-## 01 | About Me
+## 🌷 01 | ABOUT ME
 
-Hello! I'm **Ayeen Shayne L. Opao**, a **BS Nursing 4D student** from **Ateneo de Davao University**.
+Hi there! I'm **Ayeen Shayne L. Opao**, a BS Nursing student from **Ateneo de Davao University**.
 
-I am a creative and enthusiastic student who enjoys exploring new ideas, learning digital technologies, and expressing creativity through visual design. Beyond academics, I enjoy watching K-dramas and anime, exploring makeup, and listening to music.
+I'm someone who enjoys creativity, exploring new ideas, and learning things beyond my comfort zone. I love watching K-dramas and anime, experimenting with makeup, and listening to music. I also enjoy discovering how technology can make everyday tasks easier, more creative, and more meaningful.
 
-This repository serves as my digital portfolio for **GE 4120 – 21st Century IT Skills**, where I showcase my activities, outputs, and learning experiences throughout the course.
+This repository is my digital portfolio for **GE 4120 – 21st Century IT Skills**. It contains my activities, projects, and learning experiences throughout the semester.
 
-My journey in this subject has allowed me to discover how technology can transform ideas into meaningful and creative digital outputs.
+For me, this subject is not just about learning how to use digital tools. It is about discovering new ways to express ideas, develop skills, and embrace innovation.
 
-## 02 | Skills & Digital Tools
+## 💻 02 | SKILLS & DIGITAL TOOLS
 
-Some of the skills and tools I explored and developed throughout this course include:
+Throughout this course, I explored different digital tools and developed skills that helped me become more creative and technologically capable.
 
-| Skills | Description |
+| Skills | What I Learned |
 |:---|:---|
-| Presentation Design | Creating organized and visually engaging presentations. |
-| Personal Branding | Developing a unique identity through visual design. |
-| Infographic Design | Presenting information through creative visual content. |
-| Google Workspace | Using Google Slides, Forms, Meet, Docs, and Sheets. |
-| AI & Prompt Engineering | Exploring AI tools and improving generated outputs through prompts. |
-| Website Development | Designing and building a personal digital portfolio. |
-| Resume Generation | Using AI tools to create and format professional resumes. |
+| 🎨 Presentation Design | Creating organized, attractive, and engaging presentations. |
+| 👤 Personal Branding | Expressing personality and identity through visual design. |
+| 📊 Infographic Design | Transforming information into creative visual content. |
+| 🌐 Google Workspace | Using Google Slides, Forms, Meet, Docs, and Sheets. |
+| 🤖 AI & Prompt Engineering | Exploring AI tools and creating effective prompts. |
+| 💻 Website Development | Designing and building a personal digital portfolio. |
+| 📄 Resume Generation | Using AI tools to create and improve professional resumes. |
 
 ---
 
-## 03 | Activities Showcase
+## 📚 03 | MY ACTIVITIES
 
-Welcome to my activity collection! Each activity represents a different learning experience that helped me strengthen my creativity, digital literacy, and technical skills.
+<sub>SEVEN ACTIVITIES • DIFFERENT EXPERIENCES • ONE LEARNING JOURNEY</sub>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/SEVEN_ACTIVITIES-ONE_LEARNING_JOURNEY-1565C0?style=for-the-badge&logo=github" alt="Seven Activities">
-
-</div>
+Every activity represents a new opportunity to explore technology, improve my digital skills, and turn creative ideas into meaningful outputs.
 
 <table align="center" width="100%">
 <tr>
@@ -67,7 +67,7 @@ Welcome to my activity collection! Each activity represents a different learning
 
 <p align="justify">Applying the fundamentals of effective presentation design by organizing content, establishing visual hierarchy, and using proper alignment, typography, and layout to create clear and engaging slides.</p>
 
-<a href="./Activity-1/"><img src="https://img.shields.io/badge/OPEN_ACTIVITY_1-0D47A1?style=for-the-badge&logo=github&logoColor=white" alt="Open Activity 1"></a>
+<a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/Activity%201"><img src="https://img.shields.io/badge/VIEW_ACTIVITY_1-0D47A1?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 1"></a>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -80,7 +80,7 @@ Welcome to my activity collection! Each activity represents a different learning
 
 <p align="justify">Developing a personal brand through creative visual elements, including colors, typography, and design choices that represent my personality, interests, and unique identity.</p>
 
-<a href="./Activity-2/"><img src="https://img.shields.io/badge/OPEN_ACTIVITY_2-1976D2?style=for-the-badge&logo=github&logoColor=white" alt="Open Activity 2"></a>
+<a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/Activity%202"><img src="https://img.shields.io/badge/VIEW_ACTIVITY_2-1976D2?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 2"></a>
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ Welcome to my activity collection! Each activity represents a different learning
 
 <p align="justify">Creating informative and visually appealing social media infographics while documenting the development, objectives, and processes of a mini project through organized digital documentation.</p>
 
-<a href="./Activity-3/"><img src="https://img.shields.io/badge/OPEN_ACTIVITY_3-1E88E5?style=for-the-badge&logo=github&logoColor=white" alt="Open Activity 3"></a>
+<a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/Activity%203"><img src="https://img.shields.io/badge/VIEW_ACTIVITY_3-1E88E5?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 3"></a>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -109,7 +109,7 @@ Welcome to my activity collection! Each activity represents a different learning
 
 <p align="justify">Exploring the features and functions of Google Forms and Google Meet through a structured presentation, demonstrating how these tools support online data collection, communication, and collaboration.</p>
 
-<a href="./Activity-4/"><img src="https://img.shields.io/badge/OPEN_ACTIVITY_4-42A5F5?style=for-the-badge&logo=github&logoColor=white" alt="Open Activity 4"></a>
+<a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/Activity%204"><img src="https://img.shields.io/badge/VIEW_ACTIVITY_4-42A5F5?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 4"></a>
 
 </td>
 </tr>
@@ -125,7 +125,7 @@ Welcome to my activity collection! Each activity represents a different learning
 
 <p align="justify">Experimenting with artificial intelligence image-generation tools by comparing simple prompts with detailed and structured instructions to understand how prompt engineering influences the quality and accuracy of generated images.</p>
 
-<a href="./Activity-5/"><img src="https://img.shields.io/badge/OPEN_ACTIVITY_5-0D47A1?style=for-the-badge&logo=github&logoColor=white" alt="Open Activity 5"></a>
+<a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/Activity%205"><img src="https://img.shields.io/badge/VIEW_ACTIVITY_5-0D47A1?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 5"></a>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -138,7 +138,7 @@ Welcome to my activity collection! Each activity represents a different learning
 
 <p align="justify">Designing and developing a personal website using digital and AI-powered tools, applying basic web design principles to create an organized, accessible, and functional online portfolio.</p>
 
-<a href="./Activity-6/"><img src="https://img.shields.io/badge/OPEN_ACTIVITY_6-1976D2?style=for-the-badge&logo=github&logoColor=white" alt="Open Activity 6"></a>
+<a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/Activity%206"><img src="https://img.shields.io/badge/VIEW_ACTIVITY_6-1976D2?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 6"></a>
 
 </td>
 </tr>
@@ -154,18 +154,18 @@ Welcome to my activity collection! Each activity represents a different learning
 
 <p align="justify">Using and comparing different AI models to generate, enhance, and format a professional resume, focusing on proper content organization, readability, and professional presentation.</p>
 
-<a href="./Activity-7/"><img src="https://img.shields.io/badge/OPEN_ACTIVITY_7-1E88E5?style=for-the-badge&logo=github&logoColor=white" alt="Open Activity 7"></a>
+<a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/Activity%207"><img src="https://img.shields.io/badge/VIEW_ACTIVITY_7-1E88E5?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 7"></a>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### Continuous Learning
+### Beyond the Activities
 
-**Beyond the Activities**
+**A Continuous Learning Journey**
 
-<p align="justify">Continuously exploring digital innovations and developing new skills that promote creativity, adaptability, collaboration, and lifelong learning.</p>
+<p align="justify">Every experience is an opportunity to grow. I look forward to exploring more digital innovations, discovering new tools, and developing skills that I can apply in my academic journey and future nursing career.</p>
 
-**Keep Learning. Keep Creating. Keep Growing.**
+**Create • Explore • Innovate**
 
 </td>
 </tr>
@@ -173,14 +173,15 @@ Welcome to my activity collection! Each activity represents a different learning
 
 ---
 
-## 04 | Midterm Exam
+## 📝 04 | MIDTERM EXAM
 
 <div align="center">
 
 ### Class Event Budget & Proposal
 
-<img src="https://img.shields.io/badge/MIDTERM-EXAM-0D47A1?style=for-the-badge" alt="Midterm Exam">
-<img src="https://img.shields.io/badge/GOOGLE-SHEETS%20%26%20DOCS-1976D2?style=for-the-badge" alt="Google Sheets and Docs">
+<img src="https://img.shields.io/badge/MIDTERM_EXAM-2026-0D47A1?style=for-the-badge" alt="Midterm Exam">
+
+<img src="https://img.shields.io/badge/GOOGLE-SHEETS%20%26%20DOCS-1976D2?style=for-the-badge" alt="Google Workspace">
 
 </div>
 
@@ -188,35 +189,41 @@ Welcome to my activity collection! Each activity represents a different learning
 
 **Tools Used:**
 
-- **Google Sheets** – Creating the event budget, organizing expenses, and calculating the total estimated cost.
-- **Google Docs** – Preparing the formal class event proposal and presenting the budget details.
+- 📊 **Google Sheets** – Creating the event budget, organizing expenses, and calculating the total estimated cost.
+- 📄 **Google Docs** – Preparing the formal class event proposal and presenting the budget details.
 
 <div align="center">
 
-<a href="./Midterm-Exam/"><img src="https://img.shields.io/badge/OPEN_MIDTERM_EXAM-1565C0?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Open Midterm Exam"></a>
+<a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/MIDTERM%20EXAM"><img src="https://img.shields.io/badge/VIEW_MIDTERM_EXAM-1565C0?style=for-the-badge&logo=github&logoColor=white" alt="View Midterm Exam"></a>
 
 </div>
 
 ---
 
-## 05 | My Learning Journey
+## 🌱 05 | MY LEARNING JOURNEY
 
-Throughout these activities, I discovered that technology is more than just a tool for completing academic requirements. It is a way to communicate ideas, express creativity, solve problems, and explore new possibilities.
+This course taught me that technology is more than just a tool for completing academic requirements. It is a platform for creativity, communication, collaboration, and innovation.
 
-As a nursing student, I believe that developing digital skills is equally important because technology continues to shape modern healthcare through communication, patient documentation, health education, and information management.
+As a nursing student, I recognize the importance of digital literacy in modern healthcare. Technology plays an important role in patient documentation, health education, communication, and information management.
 
-Every activity has contributed to my growth as a student and has encouraged me to become more confident, creative, and adaptable in an increasingly digital world.
+Through every activity, I learned to become more adaptable, confident, and open to new ideas. These experiences have helped me appreciate how digital skills can complement my future profession as a nurse.
+
+**My biggest takeaway:** Learning never stops, and every new skill is another step toward becoming better.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64B5F6,50:1976D2,100:0D47A1&height=130&section=footer&text=THANK%20YOU%20FOR%20VISITING!&fontSize=23&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Blue footer banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64B5F6,50:1976D2,100:0D47A1&height=150&section=footer&text=THANK%20YOU%20FOR%20VISITING!&fontSize=24&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Blue footer banner">
 
-**AYEEN SHAYNE L. OPAO | BSN 4D**
+### 💙 AYEEN SHAYNE L. OPAO
+
+**BSN 4D | Ateneo de Davao University**
 
 *GE 4120 – 21st Century IT Skills*
 
-**Learning Today, Innovating Tomorrow.**
+**“Dream Big. Stay Creative. Keep Innovating.”**
+
+[GitHub Repository](https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem)
 
 </div>
