@@ -3,9 +3,9 @@
 
 # 💙 ACTIVITY 04
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=GOOGLE%20WORKSPACE&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=GOOGLE%20SLIDES&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
-*Connecting, collaborating, and collecting information through digital tools.*
+*Creating collaborative, creative, and engaging presentations through Google Slides.*
 
 </div>
 
@@ -13,34 +13,34 @@
 
 ## 📘 ACTIVITY TITLE AND SHORT DESCRIPTION
 
-**Activity 04: Google Workspace – Google Forms and Google Meet**
+**Activity 04: Google Slides**
 
 <p align="justify">
-This activity focuses on exploring the features and functions of Google Forms and Google Meet and understanding how these applications support digital communication, collaboration, and information gathering. It involves learning how to create online forms, collect responses, organize data, and conduct virtual meetings. Through this activity, I gained knowledge of how Google Workspace tools make academic tasks and group activities more convenient and efficient.
+This activity focuses on exploring and utilizing Google Slides as a digital presentation tool for creating, editing, and sharing visual presentations. It involves learning how to organize information, insert images and other visual elements, customize slide layouts, apply themes, and use different formatting features. Through this activity, I gained a better understanding of how Google Slides can help create professional and engaging presentations while allowing users to collaborate and work together online.
 </p>
 
 ## ✨ WHAT HAVE I LEARNED?
 
 <p align="justify">
-Through this activity, I learned how digital applications can improve communication, collaboration, and data collection. I discovered that Google Forms is useful for creating questionnaires, surveys, and assessments, while Google Meet provides a platform for virtual meetings, discussions, and online collaboration. I also realized that these tools help save time, organize information, and make working with others easier even when people are in different locations.
+Through this activity, I learned how Google Slides makes creating presentations easier, more accessible, and more convenient. I discovered how to use its different features, such as slide layouts, themes, transitions, animations, images, and text formatting, to make presentations more organized and visually appealing. I also learned that Google Slides allows real-time collaboration, making it easier to share ideas and work with classmates on group presentations.
 </p>
 
 **◆ Key Concepts and Skills I Gained**
 
 <p align="justify">
-I learned how to create and customize online forms, prepare questions, collect responses, and organize information using Google Forms. I also became familiar with the features of Google Meet, including joining meetings, communicating with participants, and participating in virtual discussions. These skills improved my digital literacy, communication, and collaboration abilities.
+I developed my skills in creating and editing slides, organizing information, applying themes, inserting images, and arranging visual elements properly. I also learned the importance of maintaining consistency, readability, and proper slide organization when preparing presentations. Additionally, I gained knowledge of online collaboration and file sharing, which are useful when working with other people on academic projects.
 </p>
 
 **◆ Challenges I Faced and How I Solved Them**
 
 <p align="justify">
-One challenge I encountered was familiarizing myself with the different features and functions of Google Forms and Google Meet, especially understanding how to organize questions and manage online activities properly. I addressed this by exploring the applications, practicing their features, and becoming more familiar with their functions. Through continuous practice, I gained confidence in using these tools for different academic purposes.
+One challenge I encountered was organizing the content and choosing appropriate layouts and visual elements to make each slide clear and attractive without overcrowding it. I addressed this by simplifying the information, exploring different slide designs, and using appropriate formatting to maintain consistency throughout the presentation. I also familiarized myself with the available tools and features through practice.
 </p>
 
 **◆ How I Could Apply or Improve This in the Future**
 
 <p align="justify">
-In the future, I can use Google Forms to conduct research surveys, collect information, and perform community health assessments. As a nursing student, this tool can help me gather data during community immersion and health-related activities. I can also use Google Meet to participate in online meetings, group discussions, research consultations, and collaborative nursing activities. I will continue improving my skills in using digital tools to become more efficient and adaptable in academic and professional settings.
+In the future, I can apply these skills when preparing nursing case presentations, research reports, health education discussions, and academic projects. As a nursing student, Google Slides can help me present complex health information in a simpler and more understandable way through images, diagrams, and organized explanations. I will continue improving my presentation and collaboration skills to create more informative, professional, and engaging presentations that I can use in my future nursing career.
 </p>
 
 ---
