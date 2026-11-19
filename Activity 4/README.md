@@ -8,7 +8,7 @@
 
 ---
 
-## 📘 ACTIVITY TITLE AND SHORT DESCRIPTION
+## 📘 ABOUT THIS ACTIVITY
 
 This activity focuses on Google Slides, a presentation tool used to create, edit, and share visual presentations. It explores how different features, layouts, themes, and design elements can help communicate ideas clearly and effectively.
 
