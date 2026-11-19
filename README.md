@@ -1,5 +1,4 @@
-```markdown
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:60A5FA,100:1E3A8A&height=190&section=header&text=GE-4120&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=21st%20Century%20IT%20Skills%20%7C%201st%20SEM&descSize=17&descAlignY=65" width="100%" />
 
@@ -299,4 +298,3 @@ Made with ♡ by Ayeen Shayne L. Opao
 <sub>GE-4120 | 21st Century IT Skills | 1st Semester</sub>
 
 </div>
-```
