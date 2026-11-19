@@ -1,22 +1,36 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:60A5FA,100:1E3A8A&height=190&section=header&text=GE-4120&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=21st%20Century%20IT%20Skills%20%7C%201st%20SEM&descSize=17&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,45:1976D2,100:90CAF9&height=220&section=header&text=GE-4120&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=21ST%20CENTURY%20IT%20SKILLS%20%E2%80%A2%201ST%20SEM&descSize=17&descAlignY=63" width="100%" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/main/profile.png" width="175" alt="Ayeen's Profile Picture" />
+<img src="https://raw.githubusercontent.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/main/profile.PNG" width="180" alt="Ayeen Shayne L. Opao - Profile Picture" />
+
+<br>
 
 # ✧ AYEEN SHAYNE L. OPAO ✧
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Welcome+to+my+learning+space!;BS+Nursing+%7C+BSN+4D;Creating+with+purpose%2C+learning+with+passion;Turning+ideas+into+digital+outputs!" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=1976D2&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+space!;BS+Nursing+%7C+BSN+4D;Creativity+meets+technology;Learning%2C+creating%2C+and+growing!" alt="Animated introduction" />
 
 🎓 BS Nursing – BSN 4D  
 🏫 Ateneo de Davao University  
-📚 GE-4120 | 21st Century IT Skills
+📚 GE 4120 – 21st Century IT Skills
+
+<br>
+
+<img src="https://img.shields.io/badge/COURSE-GE%204120-0D47A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PROGRAM-BSN%204D-1976D2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SEMESTER-1ST%20SEM-64B5F6?style=for-the-badge" />
+
+<br><br>
 
 <a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORY-0D47A1?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br><br>
+
+<em>Turning ideas into creativity, and creativity into digital possibilities.</em>
 
 </div>
 
@@ -26,87 +40,103 @@
 
 <div align="justify">
 
-Hello! I'm Ayeen Shayne L. Opao, a fourth-year Bachelor of Science in Nursing student at Ateneo de Davao University. I am a cheerful, curious, and creative person who enjoys discovering new things, exploring ideas, and making people smile. I believe that learning becomes more meaningful when I can express myself, try something new, and turn my ideas into something valuable.
+Hi there! I'm Ayeen Shayne L. Opao, a fourth-year Bachelor of Science in Nursing student at Ateneo de Davao University.
 
-Beyond academics, I enjoy watching K-dramas and anime, experimenting with makeup, and listening to music. These interests allow me to relax, find inspiration, and appreciate different forms of creativity.
+I'm a cheerful, curious, and creative person who enjoys exploring new ideas and learning things beyond my comfort zone. I love watching K-dramas and anime, experimenting with makeup, and listening to music. I also enjoy discovering how technology can make everyday tasks easier, more creative, and more meaningful.
 
-As a nursing student, I value compassion, communication, critical thinking, and continuous growth. I also recognize how technology has become an important part of education and modern healthcare. Through GE-4120, I have explored digital tools that help me create presentations, organize information, develop visual content, and express my ideas in new ways.
+As a nursing student, I value compassion, communication, critical thinking, and continuous learning. I believe that personal growth comes from being open to new experiences and embracing opportunities to improve.
 
-This portfolio represents my learning journey throughout the semester. It contains my activities, outputs, and experiences as I continue developing my digital skills and discovering how creativity and technology can work together.
+This repository serves as my digital portfolio for GE 4120 – 21st Century IT Skills. It showcases my activities, projects, and learning experiences throughout the semester. Through this course, I have explored different digital platforms, developed creative outputs, and discovered new ways to express ideas through technology.
+
+For me, this subject is more than learning how to use digital tools. It is about building confidence, developing useful skills, and understanding how technology can support both my academic journey and future nursing profession.
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CREATIVE-DBEAFE?style=flat-square&labelColor=2563EB" />
-<img src="https://img.shields.io/badge/CURIOUS-DBEAFE?style=flat-square&labelColor=2563EB" />
-<img src="https://img.shields.io/badge/ALWAYS%20LEARNING-DBEAFE?style=flat-square&labelColor=2563EB" />
+<img src="https://img.shields.io/badge/CREATIVITY-DBEAFE?style=flat-square&labelColor=1565C0" />
+<img src="https://img.shields.io/badge/CURIOSITY-DBEAFE?style=flat-square&labelColor=1976D2" />
+<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-DBEAFE?style=flat-square&labelColor=42A5F5" />
 
 </div>
 
 ---
 
-## 🎀 02 | SKILLS & DIGITAL TOOLS
+## 💻 02 | SKILLS & DIGITAL TOOLS
 
 <div align="center">
 
-<sub>A collection of the skills I've explored and developed throughout this course.</sub>
+<sub>Exploring digital tools, developing new abilities, and turning creativity into meaningful outputs.</sub>
 
 <br><br>
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#EFF6FF" width="33%">
+<td align="center" width="33%" bgcolor="#E3F2FD">
 <br>
-<img src="https://img.icons8.com/fluency/48/microsoft-powerpoint-2019.png" width="38" />
+<img src="https://img.icons8.com/fluency/48/microsoft-powerpoint-2019.png" width="42" />
 <br>
-Presentation Design
+<strong>Presentation Design</strong>
+<br>
+<sub>Visual communication</sub>
 <br><br>
 </td>
-<td align="center" bgcolor="#DBEAFE" width="33%">
+<td align="center" width="33%" bgcolor="#BBDEFB">
 <br>
-<img src="https://img.icons8.com/fluency/48/paint-palette.png" width="38" />
+<img src="https://img.icons8.com/fluency/48/paint-palette.png" width="42" />
 <br>
-Personal Branding
+<strong>Personal Branding</strong>
+<br>
+<sub>Creative identity</sub>
 <br><br>
 </td>
-<td align="center" bgcolor="#EFF6FF" width="33%">
+<td align="center" width="33%" bgcolor="#E3F2FD">
 <br>
-<img src="https://img.icons8.com/fluency/48/infographic.png" width="38" />
+<img src="https://img.icons8.com/fluency/48/infographic.png" width="42" />
 <br>
-Infographic Design
-<br><br>
-</td>
-</tr>
-<tr>
-<td align="center" bgcolor="#DBEAFE">
+<strong>Infographic Design</strong>
 <br>
-<img src="https://img.icons8.com/fluency/48/google-logo.png" width="38" />
-<br>
-Google Workspace
-<br><br>
-</td>
-<td align="center" bgcolor="#EFF6FF">
-<br>
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="38" />
-<br>
-AI & Prompt Engineering
-<br><br>
-</td>
-<td align="center" bgcolor="#DBEAFE">
-<br>
-<img src="https://img.icons8.com/fluency/48/web.png" width="38" />
-<br>
-Website Development
+<sub>Visual storytelling</sub>
 <br><br>
 </td>
 </tr>
 <tr>
-<td align="center" bgcolor="#EFF6FF" colspan="3">
+<td align="center" bgcolor="#BBDEFB">
 <br>
-<img src="https://img.icons8.com/fluency/48/document.png" width="38" />
+<img src="https://img.icons8.com/fluency/48/google-logo.png" width="42" />
 <br>
-Resume Generation
+<strong>Google Workspace</strong>
+<br>
+<sub>Digital productivity</sub>
+<br><br>
+</td>
+<td align="center" bgcolor="#E3F2FD">
+<br>
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="42" />
+<br>
+<strong>AI & Prompt Engineering</strong>
+<br>
+<sub>Exploring innovation</sub>
+<br><br>
+</td>
+<td align="center" bgcolor="#BBDEFB">
+<br>
+<img src="https://img.icons8.com/fluency/48/web.png" width="42" />
+<br>
+<strong>Website Development</strong>
+<br>
+<sub>Building digital spaces</sub>
+<br><br>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" bgcolor="#E3F2FD">
+<br>
+<img src="https://img.icons8.com/fluency/48/document.png" width="42" />
+<br>
+<strong>Resume Generation</strong>
+<br>
+<sub>Professional presentation</sub>
 <br><br>
 </td>
 </tr>
@@ -114,130 +144,104 @@ Resume Generation
 
 <br>
 
-<img src="https://img.shields.io/badge/LEARN-1D4ED8?style=flat-square" />
-<img src="https://img.shields.io/badge/CREATE-3B82F6?style=flat-square" />
-<img src="https://img.shields.io/badge/EXPLORE-60A5FA?style=flat-square" />
+<sub>LEARN · CREATE · DESIGN · INNOVATE</sub>
 
 </div>
 
 ---
 
-## 🩵 03 | MY ACTIVITIES
+## 📚 03 | MY ACTIVITIES
 
 <div align="center">
 
-<sub>Seven activities. Countless ideas. One learning journey.</sub>
+<sub>SEVEN ACTIVITIES • DIFFERENT EXPERIENCES • ONE LEARNING JOURNEY</sub>
 
 <br><br>
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#EFF6FF" width="50%">
+<td width="50%" align="center" bgcolor="#E3F2FD">
 <br>
-<img src="https://img.icons8.com/fluency/48/one.png" width="32" />
+<img src="https://img.icons8.com/fluency/48/one.png" width="35" />
 <br>
-
-### Activity 1
-
+<h3>Activity 1</h3>
 <a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/Activity%201">
-<img src="https://img.shields.io/badge/EXPLORE-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20ACTIVITY-0D47A1?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <br><br>
 </td>
-<td align="center" bgcolor="#DBEAFE" width="50%">
+<td width="50%" align="center" bgcolor="#BBDEFB">
 <br>
-<img src="https://img.icons8.com/fluency/48/two.png" width="32" />
+<img src="https://img.icons8.com/fluency/48/two.png" width="35" />
 <br>
-
-### Activity 2
-
+<h3>Activity 2</h3>
 <a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/Activity%202">
-<img src="https://img.shields.io/badge/EXPLORE-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20ACTIVITY-1565C0?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <br><br>
 </td>
 </tr>
 <tr>
-<td align="center" bgcolor="#DBEAFE">
+<td align="center" bgcolor="#BBDEFB">
 <br>
-<img src="https://img.icons8.com/fluency/48/three.png" width="32" />
+<img src="https://img.icons8.com/fluency/48/three.png" width="35" />
 <br>
-
-### Activity 3
-
+<h3>Activity 3</h3>
 <a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/Activity%203">
-<img src="https://img.shields.io/badge/EXPLORE-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20ACTIVITY-1565C0?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <br><br>
 </td>
-<td align="center" bgcolor="#EFF6FF">
+<td align="center" bgcolor="#E3F2FD">
 <br>
-<img src="https://img.icons8.com/fluency/48/four.png" width="32" />
+<img src="https://img.icons8.com/fluency/48/four.png" width="35" />
 <br>
-
-### Activity 4
-
+<h3>Activity 4</h3>
 <a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/Activity%204">
-<img src="https://img.shields.io/badge/EXPLORE-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20ACTIVITY-0D47A1?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <br><br>
 </td>
 </tr>
 <tr>
-<td align="center" bgcolor="#EFF6FF">
+<td align="center" bgcolor="#E3F2FD">
 <br>
-<img src="https://img.icons8.com/fluency/48/five.png" width="32" />
+<img src="https://img.icons8.com/fluency/48/five.png" width="35" />
 <br>
-
-### Activity 5
-
+<h3>Activity 5</h3>
 <a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/Activity%205">
-<img src="https://img.shields.io/badge/EXPLORE-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20ACTIVITY-0D47A1?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <br><br>
 </td>
-<td align="center" bgcolor="#DBEAFE">
+<td align="center" bgcolor="#BBDEFB">
 <br>
-<img src="https://img.icons8.com/fluency/48/six.png" width="32" />
+<img src="https://img.icons8.com/fluency/48/six.png" width="35" />
 <br>
-
-### Activity 6
-
+<h3>Activity 6</h3>
 <a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/Activity%206">
-<img src="https://img.shields.io/badge/EXPLORE-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20ACTIVITY-1565C0?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <br><br>
 </td>
 </tr>
 <tr>
-<td align="center" bgcolor="#DBEAFE">
+<td align="center" bgcolor="#BBDEFB">
 <br>
-<img src="https://img.icons8.com/fluency/48/seven.png" width="32" />
+<img src="https://img.icons8.com/fluency/48/seven.png" width="35" />
 <br>
-
-### Activity 7
-
+<h3>Activity 7</h3>
 <a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/Activity%207">
-<img src="https://img.shields.io/badge/EXPLORE-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20ACTIVITY-1565C0?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <br><br>
 </td>
-<td align="center" bgcolor="#EFF6FF">
+<td align="center" bgcolor="#E3F2FD">
 <br>
-<img src="https://img.icons8.com/fluency/48/sparkling.png" width="38" />
+<img src="https://img.icons8.com/fluency/48/sparkling.png" width="40" />
 <br>
-
-### More to Discover
-
-<sub>Learn something new every day.</sub>
-
+<h3>Beyond the Activities</h3>
+<sub>More ideas, more discoveries, more opportunities to grow.</sub>
 <br><br>
 </td>
 </tr>
@@ -253,19 +257,27 @@ Resume Generation
 
 ### Class Event Budget & Proposal
 
-<sub>PLANNING · BUDGETING · DOCUMENTATION</sub>
-
-<br>
-
-<a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/MIDTERM%20EXAM">
-<img src="https://img.shields.io/badge/VIEW%20MIDTERM%20OUTPUT-1D4ED8?style=for-the-badge&logo=google-drive&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/MIDTERM%20EXAM-2026-0D47A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GOOGLE-SHEETS%20%26%20DOCS-1976D2?style=for-the-badge" />
 
 </div>
 
 <div align="justify">
 
-For the midterm examination, I prepared a class event budget using Google Sheets and developed a formal event proposal using Google Docs. This activity helped me practice organizing information, managing estimated expenses, and preparing professional digital documents.
+This midterm project focuses on planning and organizing a class event using Google Workspace applications. Google Sheets was utilized to create and organize the proposed event budget, calculate expenses, and determine the estimated total cost. Meanwhile, Google Docs was used to prepare the formal event proposal and present the necessary details in a clear and organized manner.
+
+</div>
+
+### Tools Used
+
+- 📊 Google Sheets — Creating the event budget, organizing expenses, and calculating the estimated total cost.
+- 📄 Google Docs — Preparing the formal class event proposal and presenting the budget details.
+
+<div align="center">
+
+<a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem/tree/main/MIDTERM%20EXAM">
+<img src="https://img.shields.io/badge/VIEW%20MIDTERM%20EXAM-0D47A1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -275,26 +287,36 @@ For the midterm examination, I prepared a class event budget using Google Sheets
 
 <div align="justify">
 
-This course has taught me that digital skills go beyond simply knowing how to use technology. They involve creativity, adaptability, communication, and the ability to use digital tools effectively.
+This course taught me that technology is more than just a tool for completing academic requirements. It is a platform for creativity, communication, collaboration, and innovation.
 
-As a future nurse, I recognize that technology plays an important role in modern healthcare, especially in communication, patient documentation, health education, and information management. I look forward to applying these skills in my academic journey and future nursing practice.
+As a nursing student, I recognize the importance of digital literacy in modern healthcare. Technology plays an important role in patient documentation, health education, communication, and information management.
 
-Every activity has been an opportunity to learn, improve, and become more confident in exploring the digital world.
+Through every activity, I learned to become more adaptable, confident, and open to new ideas. These experiences have helped me appreciate how digital skills can complement my future profession as a nurse.
+
+My biggest takeaway is that learning never stops, and every new skill is another step toward becoming better.
 
 </div>
 
 <div align="center">
 
-### 💙 LEARN · CREATE · EXPLORE · GROW 💙
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=1976D2&center=true&vCenter=true&width=600&lines=Dream+Big.;Stay+Creative.;Keep+Learning.;Keep+Innovating!" alt="Animated closing message" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Dream+big.+Stay+curious.;Create+with+purpose.;Keep+learning%2C+keep+growing!" alt="Animated closing message" />
+</div>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:60A5FA,100:DBEAFE&height=130&section=footer" width="100%" />
+<div align="center">
 
-Made with ♡ by Ayeen Shayne L. Opao
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64B5F6,50:1976D2,100:0D47A1&height=150&section=footer&text=THANK%20YOU%20FOR%20VISITING!&fontSize=24&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Blue footer banner" />
 
-<sub>GE-4120 | 21st Century IT Skills | 1st Semester</sub>
+### 💙 AYEEN SHAYNE L. OPAO
+
+BSN 4D | Ateneo de Davao University
+
+GE 4120 – 21st Century IT Skills
+
+<em>Dream Big. Stay Creative. Keep Innovating.</em>
+
+<a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem">GitHub Repository</a>
 
 </div>
