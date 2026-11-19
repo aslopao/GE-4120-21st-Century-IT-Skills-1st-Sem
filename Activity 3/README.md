@@ -9,7 +9,7 @@
 
 ---
 
-## 📘 **Activity 03: Social Media Infographics and Project Documentation**
+## 📘 **Activity 03: Social Media Infographics and Project Documentation** <p align="justify">
 
 <p align="justify">
 This activity focuses on creating informative and visually appealing social media infographics while documenting the objectives, processes, and important details of a project. It involves combining text, images, icons, colors, and other visual elements to communicate information effectively. Through this activity, I learned how to present ideas creatively and organize project information through proper digital documentation.
