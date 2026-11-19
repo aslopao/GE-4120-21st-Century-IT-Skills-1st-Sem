@@ -1,34 +1,29 @@
- <div align="center">
+&#x20;\<div align="center">
 
 # 💙 ACTIVITY 04
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=GOOGLE%20SLIDES&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=GOOGLE%20SLIDES&fontSize=30&fontColor=FFFFFF&animation=fadeIn](https://capsule-render.vercel.app/api?type=rect\&color=0:0D47A1,100:64B5F6\&height=120\&section=header\&text=GOOGLE%20SLIDES\&fontSize=30\&fontColor=FFFFFF\&animation=fadeIn)" width="100%"/>
 
 *Creating engaging presentations through creativity and digital collaboration.*
 
-</div>
+\</div>
 
 ---
 
-## 📘 ABOUT THIS ACTIVITY
+## 📘 ACTIVITY TITLE AND SHORT DESCRIPTION
 
-This activity focuses on exploring Google Slides and its features for creating effective and visually appealing presentations. It highlights the importance of creativity, organization, and visual communication when presenting information.
+This activity focuses on Google Slides, a presentation tool used to create, edit, and share visual presentations. It explores how different features, layouts, themes, and design elements can help communicate ideas clearly and effectively.
 
-## 🎯 OBJECTIVES
+## 💡 WHAT HAVE I LEARNED?
 
-- Understand the basic features and functions of Google Slides.
-- Create organized and visually appealing presentations.
-- Apply appropriate themes, layouts, and design elements.
-- Develop presentation and digital collaboration skills.
+- **Key Concepts & Skills:** I learned how to use Google Slides features such as themes, layouts, transitions, animations, and multimedia elements. I also developed skills in organizing information and creating visually appealing presentations.
 
-## ✨ WHAT I LEARNED
+- **Challenges & Solutions:** One challenge was choosing appropriate designs and arranging information without making the slides overcrowded. I addressed this by keeping the content concise, using readable fonts, and selecting layouts that made the presentation easier to understand.
 
-I learned how to use Google Slides to create clear, creative, and engaging presentations. I also improved my skills in organizing information, applying design elements, and presenting ideas effectively using digital tools.
+- **Future Applications:** I can apply these skills when preparing academic reports, group presentations, and future professional presentations. I can further improve by exploring more advanced features and practicing how to create clear, creative, and engaging slides.
 
-<a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem">
-<img src="https://img.shields.io/badge/BACK%20TO%20MAIN%20PORTFOLIO-1976D2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+\<a href="[https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem](https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem)"> \<img src="[https://img.shields.io/badge/BACK%20TO%20MAIN%20PORTFOLIO-1976D2?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/BACK%20TO%20MAIN%20PORTFOLIO-1976D2?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a>
 
-</div>
+\</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:90CAF9,100:0D47A1&height=100&section=footer" width="100%"/>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:90CAF9,100:0D47A1&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:90CAF9,100:0D47A1\&height=100\&section=footer)" width="100%"/>
