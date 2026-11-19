@@ -1,8 +1,6 @@
 
 <div align="center">
-
-# 💙 ACTIVITY 04
-
+  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=GOOGLE%20SLIDES&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 *Creating collaborative, creative, and engaging presentations through Google Slides.*
