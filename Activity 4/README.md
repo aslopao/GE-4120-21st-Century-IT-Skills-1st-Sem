@@ -1,8 +1,11 @@
-&#x20;\<div align="center">
+
+<div align="center">
 
 # 💙 ACTIVITY 04
 
 ## GOOGLE WORKSPACE: GOOGLE SLIDES
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=GOOGLE%20WORKSPACE%20GOOGLE%20SLIDES&fontSize=27&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 *Creating engaging presentations through creativity and digital collaboration.*
 
