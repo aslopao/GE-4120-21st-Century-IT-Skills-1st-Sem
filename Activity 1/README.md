@@ -1,7 +1,6 @@
  <div align="center">
 
 # 💙 ACTIVITY 01
-## PRESENTATION DESIGN PRINCIPLES
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=PRESENTATION%20DESIGN&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
@@ -31,8 +30,6 @@ This activity taught me that creating a good presentation is more than simply ad
 I learned the importance of simplicity, consistency, alignment, contrast, and visual hierarchy. I also realized that choosing the right colors and fonts can make information easier to read and remember.
 
 Most importantly, I developed my creativity and became more mindful of how I present information. These skills will be useful not only in academic presentations but also in my future nursing profession, especially when preparing health education materials and presenting important patient-related information.
-
-### 💙 ONE ACTIVITY, ONE NEW SKILL, ONE STEP FORWARD.
 
 <a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem">
 <img src="https://img.shields.io/badge/BACK%20TO%20MAIN%20PORTFOLIO-1976D2?style=for-the-badge&logo=github&logoColor=white"/>
