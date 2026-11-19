@@ -3,6 +3,8 @@
 
 # 💙 ACTIVITY 03
 
+## SOCIAL MEDIA INFOGRAPHICS & PROJECT DOCUMENTATION
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=INFOGRAPHICS%20%26%20DOCUMENTATION&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 *Turning information into meaningful visuals and organized documents.*
@@ -25,11 +27,5 @@ This activity focuses on creating social media infographics and organizing proje
 ## ✨ WHAT I LEARNED
 
 I learned how to transform information into simple and engaging visual content. I also improved my creativity, organization, and attention to detail when preparing documents and presenting information.
-
-<a href="https://github.com/aslopao/GE-4120-21st-Century-IT-Skills-1st-Sem">
-<img src="https://img.shields.io/badge/BACK%20TO%20MAIN%20PORTFOLIO-1976D2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90CAF9,100:0D47A1&height=100&section=footer" width="100%"/>
