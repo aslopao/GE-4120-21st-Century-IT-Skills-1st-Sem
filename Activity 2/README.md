@@ -1,8 +1,6 @@
 
 <div align="center">
 
-# 💙 ACTIVITY 02
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:64B5F6&height=120&section=header&text=PERSONAL%20BRANDING&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
 *Expressing my identity, creativity, and personality through visual design.*
@@ -11,9 +9,7 @@
 
 ---
 
-## 📘 ACTIVITY TITLE AND SHORT DESCRIPTION
-
-**Activity 02: Personal Branding**
+## 📘 **Activity 02: Personal Branding**
 
 <p align="justify">
 This activity focuses on developing a personal brand through creative visual elements such as colors, typography, layouts, and design choices that represent my personality, interests, and unique identity. It explores how visual presentation can communicate who I am and how I want others to perceive me. Through this activity, I was able to express my individuality while learning how to create a consistent and meaningful personal identity through digital design.
